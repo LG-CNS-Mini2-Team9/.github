@@ -31,7 +31,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ## 🧑‍💻 멤버 소개
-|[![](https://github.com/moonjiuk.png?width=200px)](github.com/moonjiuk)|[![](https://github.com/seohee-P.png?width=200px)](github.com/seohee-P) |[![](https://github.com/liljuice.png?width=200px)](https://github.com/liljuice) |
+|[![](https://github.com/moonjiuk.png?width=200px)](https://github.com/moonjiuk)|[![](https://github.com/seohee-P.png?width=200px)](https://github.com/seohee-P) |[![](https://github.com/liljuice.png?width=200px)](https://github.com/liljuice) |
 |:---:|:---:|:---:|
 | 문지욱 | 박서희 | 윤준서 |
 |[![](https://github.com/131c2.png?width=200px)](https://github.com/131c2)|[![](https://github.com/jellyseop.png?width=200px)](https://github.com/jellyseop) |[![](https://github.com/sky121016.png?width=200px)](https://github.com/sky121016) |
